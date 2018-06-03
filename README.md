@@ -1,2 +1,2 @@
 # calculus
-Collection of excercises for my Calculus course
+Collection of exercises for my Calculus course.
